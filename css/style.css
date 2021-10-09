@@ -1,0 +1,19 @@
+h1{
+	color: green;
+
+}
+h3{
+	font-size: 30px;
+}
+.head2{
+	background-color: yellow;
+}
+#head2{
+	font-size: 50px;
+}
+.box{
+	font-size: 50px;
+	width: 30%;
+	height: 100px;
+	background-color: yellow;
+}
